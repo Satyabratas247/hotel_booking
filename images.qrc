@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/hotel_1_1.jpg</file>
+        <file>images/hotel_1_2.jpg</file>
+        <file>images/hotel_1_3.jpg</file>
+        <file>images/hotel_1_4.jpg</file>
+        <file>images/hotel_1_5.jpg</file>
+        <file>images/hotel_1_6.jpg</file>
+        <file>images/hotel_2_1.jpg</file>
+        <file>images/hotel_2_2.jpg</file>
+        <file>images/hotel_2_3.jpg</file>
+        <file>images/hotel_2_4.jpg</file>
+        <file>images/hotel_2_5.jpg</file>
+        <file>images/hotel_2_6.jpg</file>
+        <file>images/hotel_3_1.jpg</file>
+        <file>images/hotel_3_2.jpg</file>
+        <file>images/hotel_3_3.jpg</file>
+        <file>images/hotel_3_4.jpg</file>
+        <file>images/hotel_3_5.jpg</file>
+        <file>images/hotel_3_6.jpg</file>
+        <file>images/hotel_4_1.jpg</file>
+        <file>images/hotel_4_2.jpg</file>
+        <file>images/hotel_4_3.jpg</file>
+        <file>images/hotel_4_4.jpg</file>
+        <file>images/hotel_4_5.jpg</file>
+        <file>images/hotel_4_6.jpg</file>
+        <file>images/hotel_5_1.jpg</file>
+        <file>images/hotel_5_2.jpg</file>
+        <file>images/hotel_5_3.jpg</file>
+        <file>images/hotel_5_4.jpg</file>
+        <file>images/hotel_5_5.jpg</file>
+        <file>images/hotel_5_6.jpg</file>
+        <file>images/hotel_6_1.jpg</file>
+        <file>images/hotel_6_2.jpg</file>
+        <file>images/hotel_6_3.jpg</file>
+        <file>images/hotel_6_4.jpg</file>
+        <file>images/hotel_6_5.jpg</file>
+        <file>images/hotel_6_6.jpg</file>
+    </qresource>
+</RCC>
